@@ -7,3 +7,4 @@ It is a simple shooting arcade game in which alien keeps on moving and you need 
 # How to use?
 1.Dowload all the files of project at same loation
 2.Run main AlienInvasion.py
+AlieanInvasion/Capture.PNG
